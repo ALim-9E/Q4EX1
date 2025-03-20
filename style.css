@@ -1,0 +1,23 @@
+body {
+	font-family: Sour Gummy;
+	background-color: #065e7c;
+	color: white;
+}
+
+.container {
+	background-color: #02a4b8;
+	border-radius: 10px;
+}
+
+.button {
+	display: flex;
+	justify-content: center;
+}
+
+img {
+	max-width: 300px;
+}
+
+form {
+	padding: 5px;
+}
